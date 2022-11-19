@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.minecraftforge.gradle</groupId>
   <artifactId>ForgeGradle</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2.2-eahraeh</version>
   <name>ForgeGradle</name>
   <description>Gradle plugin for Forge</description>
   <url>https://github.com/MinecraftForge/ForgeGradle</url>
